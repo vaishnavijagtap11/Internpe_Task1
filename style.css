@@ -1,0 +1,55 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #968fa8;
+    color: hsl(335, 37%, 57%);
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+  }   
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin: 0;
+    margin-right: 1rem;
+  }
+  
+  nav a {
+    display: block;
+    padding: 20px 10px; 
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 2rem;
+  }
+  
+  section h2 {
+    margin-top: 0;
+  }
+  
+  blockquote {
+    font-style: italic;
+  }
+  
+  cite {
+    font-style: normal;
+  }
+
+  footer {
+    background-color: #796c6c;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
